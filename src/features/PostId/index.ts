@@ -1,0 +1,1 @@
+export { PostId } from "./ui";
